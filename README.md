@@ -6,7 +6,7 @@ The working class is an important support system for any nation. But very often 
 You will be given information describing various conditions surrounding a given labor group, predict whether the conditions are good or not.
 
 ## Dataset
-This database contains information about working class or labor class.The databse has information which describes the factors that affect the living conditions of a worker. The attrbutes include the wage increase after first year, second and third year, working hours , pension plan etc. .
+This database contains information about working class or labor class.The databse has information which describes the factors that affect the living conditions of a worker. The attrbutes include the wage increase after first year, second and third year, working hours , pension plan etc. . For simplification, attributes have been stored in the CSV file which has 17 columns, the last column is the class of the labor.
 
 ## Evaluation Criteria
 During evaluation F1 score will be used to test the efficiency of the model 
